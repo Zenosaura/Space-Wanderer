@@ -36,7 +36,9 @@ Navigate through challenging levels by jumping on different platforms. Collect a
 
 - **Level Progression:** A structured system that takes you from one level to the next, with increasing difficulty and new challenges.
 
-### 💻 Tech Used
+---
+
+## 💻 Tech Used
 - **Game Engine:** Unity
 - **Language:** C#
 - **Graphics:** Unity Asset Store (Credits below)
@@ -59,7 +61,7 @@ Navigate through challenging levels by jumping on different platforms. Collect a
 
 ---
 
-### 🎨 Asset Used
+## 🎨 Asset Used
 - Simple 2D Platformer BE2 By Goldmetal 
 [Download Link](https://assetstore.unity.com/packages/2d/characters/simple-2d-platformer-assets-pack-188518)
 - Super Grotto Escape By Ansimuz
