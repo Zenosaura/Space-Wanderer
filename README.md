@@ -62,9 +62,9 @@ Navigate through challenging levels by jumping on different platforms. Collect a
 ---
 
 ## 🎨 Asset Used
-- Simple 2D Platformer BE2 By Goldmetal 
+- Simple 2D Platformer BE2 By Goldmetal // 
 [Download Link](https://assetstore.unity.com/packages/2d/characters/simple-2d-platformer-assets-pack-188518)
-- Super Grotto Escape By Ansimuz
+- Super Grotto Escape By Ansimuz // 
 [Download Link](https://assetstore.unity.com/packages/2d/environments/super-grotto-escape-pack-238393)
 ---
 ## 📜 License
